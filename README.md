@@ -17,6 +17,6 @@ This project utilizes Power BI and MySQL.  started by processing data in MySQL, 
 6. The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
 7. A consistent increase in the percentage of employees since the company's inception.
 8. White employees are most prevalent, while Native Hawaiian and American Indian employees are the least.
-9.Ohio accounts for a significant portion of the employee base.
+9. Ohio accounts for a significant portion of the employee base.
                                                                                          
 
