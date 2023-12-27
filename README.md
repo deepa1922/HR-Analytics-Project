@@ -3,8 +3,6 @@ This project utilizes Power BI and MySQL.  started by processing data in MySQL, 
 
 ![image](Image/HR_dashboard1.png)
 
-
-
 ## 📌Key Steps
 1. **Data Collection and Cleaning:**  - Clean data using MySQL.
 2. **Critical Question Analysis:** -  Utilize SQL for in-depth analysis.
